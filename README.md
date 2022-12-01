@@ -8,3 +8,5 @@ Medium Article Link: https://medium.com/@avinash.ramesh/multi-speaker-text-to-sp
 Youtube Video Link: https://www.youtube.com/watch?v=x5wdBWsomsg
 
 Slides: https://docs.google.com/presentation/d/1n3xXqpTBsDrHMUBmPLl9Ai9goL6ebj9fLje3MEFeamg/edit?usp=sharing
+
+Paper: https://ar5iv.labs.arxiv.org/html/2102.05630
